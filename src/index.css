@@ -8,8 +8,8 @@ body {
   font-family: "Permanent Marker", sans-serif;
   display: flex;
   justify-content: center;
-  background-color: #48dbfb;
-  color: white;
+  background-color: #479fb3;
+  color: whitesmoke;
 }
 
 main {
@@ -30,7 +30,7 @@ input {
 }
 
 button {
-  background-color: #0abde3;
+  background-color: #7f9607;
   padding: 1rem;
   font-family: "Permanent Marker", sans-serif;
   font-size: 2.2rem;
@@ -41,7 +41,7 @@ button {
 }
 
 button:hover {
-  background-color: darken(#0abde3, 10%);
+  background-color: rgba(12, 59, 4, 0.5);;
   cursor: pointer;
 }
 
@@ -54,6 +54,7 @@ h1 {
   font-size: 3rem;
   color: #fff;
   word-break: break-all;
+  letter-spacing: 8px;
 }
 
 button, input {
